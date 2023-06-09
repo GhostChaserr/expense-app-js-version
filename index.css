@@ -1,3 +1,7 @@
 * {
     background-color: red;
 }
+
+.contaienr {
+    border: "1px solid red";
+}
